@@ -30,7 +30,7 @@ We encourage our colleagues not to stand aside and to support this letter.
 
 # How to sign
 
-You can sign this letter by creating a file with a random name (an easy way to create a unique filename is to use *[GUID generator](https://www.guidgenerator.com/online-guid-generator.aspx)*) in the `signed` folder. Put the following lines in the file (each line represents a single person):
+You can sign this letter by [adding](https://gist.github.com/Chaser324/ce0505fbed06b947d962) a randomly named file (one easy way to create a unique filename would be to use a *[GUID generator](https://www.guidgenerator.com/online-guid-generator.aspx)*) to the `signed` folder. The file contents shall be as follows ( each line representing one person ):
 
 ```
 Name Surname | Position, Company
